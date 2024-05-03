@@ -1,9 +1,9 @@
-#include "functions.hh"
-#include "constants.hh"
 #include <string>
 
 using namespace std;
 using namespace c3d::functions;
+using namespace c3d::constants;
+
 
 namespace c3d {
     namespace constants {

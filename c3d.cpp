@@ -1,5 +1,4 @@
 #include "c3d.hh"
-#include "functions.hh"
 #include <iostream>
 
 using namespace std;
